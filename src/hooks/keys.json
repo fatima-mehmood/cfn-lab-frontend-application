@@ -1,0 +1,4 @@
+{
+    "backendIp": "${BackendInstanceIp}",
+    "backendPort": "3000"
+}
